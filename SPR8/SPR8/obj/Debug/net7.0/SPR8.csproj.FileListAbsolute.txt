@@ -1,0 +1,15 @@
+C:\Users\www\RiderProjects\SPR8\SPR8\bin\Debug\net7.0\SPR8.exe
+C:\Users\www\RiderProjects\SPR8\SPR8\bin\Debug\net7.0\SPR8.deps.json
+C:\Users\www\RiderProjects\SPR8\SPR8\bin\Debug\net7.0\SPR8.runtimeconfig.json
+C:\Users\www\RiderProjects\SPR8\SPR8\bin\Debug\net7.0\SPR8.dll
+C:\Users\www\RiderProjects\SPR8\SPR8\bin\Debug\net7.0\SPR8.pdb
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.csproj.AssemblyReference.cache
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.AssemblyInfoInputs.cache
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.AssemblyInfo.cs
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.csproj.CoreCompileInputs.cache
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.dll
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\refint\SPR8.dll
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.pdb
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\SPR8.genruntimeconfig.cache
+C:\Users\www\RiderProjects\SPR8\SPR8\obj\Debug\net7.0\ref\SPR8.dll
